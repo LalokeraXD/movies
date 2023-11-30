@@ -1,0 +1,3 @@
+lWObYss2o2axenSN
+
+mongodb+srv://ceemalvarezji:<password>@cluster0.fdejcxa.mongodb.net/<(nombreBD)>?retryWrites=true&w=majority
